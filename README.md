@@ -28,5 +28,5 @@ For the tutorial:
 For the exercise: 
  - Complete the exercise on your own
  - Add a `PhyloExercise/` directory to your course GitHub repository, where you have been uploading your other homework assignments
- - Post your solutions in a Markdown file (or similar), as well as all necessary supporting files (e.g., JPEG images referenced in your Markdown solutions file) by the due date for the exercise: 23.59 on 17.02.2023
+ - Post your solutions in a Markdown file (or similar), as well as all necessary supporting files (e.g., JPEG images referenced in your Markdown solutions file) by the due date for the exercise: **23.59 on 17.02.2023**
  - If you have not already done so, remember to add me as a collaborator to your GitHub repository: https://github.com/V-Varga
