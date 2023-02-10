@@ -7,7 +7,7 @@ Dates: 08.02.2023 & 14.02.2023
 
 ## Introduction
 
-This is a GitHub repository for teaching materials prepared for Applied Bioinformatics (BBT045) at Chalmers University of Technology. Specifically, it contains the lecture slides, tutorial and exercise for the Phylogenomics portion of the Course. 
+This is a GitHub repository for teaching materials prepared for Applied Bioinformatics (BBT045) at Chalmers University of Technology. Specifically, it contains the lecture slides, tutorial and exercise for the Phylogenomics portion of the course. 
 
 
 ## Repository Structure
