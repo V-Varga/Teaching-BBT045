@@ -334,4 +334,7 @@ CIAlign --infile XP_001322682.1__MSA.fasta --outfile_stem XP_001322682.1__MSA_tr
 
 ## Citations
 
-> <div class="csl-entry">Smutná, T., Dohnálková, A., Sutak, R., Narayanasamy, R. K., Tachezy, J., &#38; Hrdý, I. (2022). A cytosolic ferredoxin-independent hydrogenase possibly mediates hydrogen uptake in Trichomonas vaginalis. <i>Current Biology</i>, <i>32</i>(1), 124-135.e5. https://doi.org/10.1016/j.cub.2021.10.050</div>
+> <div class="csl-entry">Smutná, T., Dohnálková, A., Sutak, R., Narayanasamy, R. K., Tachezy, J., &#38; Hrdý, I. (2022). A cytosolic ferredoxin-independent hydrogenase possibly mediates hydrogen uptake in Trichomonas vaginalis. <i>Current Biology</i>, <i>32</i>(1), 124-135.e5. https://doi.org/10.1016/j.cub.2021.10.050</div> <br>
+> <div class="csl-entry">Stairs, C. W., Táborský, P., Kolisko, M., Pánek, T., Eme, L., Hradilová, M., Vlček, Č., Jerlström-Hultqvist, Jon Roger, A. J., &#38; Čepička, I. (2021). Anaeramoebae are a deeply divergent lineage of eukaryotes that clarify the transition from anaerobic mitochondria to hydrogenosomes. <i>Current Biology</i>, <i>31</i>, 1–8.</div> <br>
+> <div class="csl-entry">Töpel, M. (2019, November). <i>Webbased Phylogenomic analysis · The-Bioinformatics-Group/Teaching Wiki</i>. GitHub. https://github.com/The-Bioinformatics-Group/Teaching/wiki/Webbased-Phylogenomic-analysis</div> <br>
+> <div class="csl-entry"><i>Trichomoniasis - STD information from CDC</i>. (n.d.). Retrieved October 11, 2021, from https://www.cdc.gov/std/trichomonas/default.htm</div> <br>
