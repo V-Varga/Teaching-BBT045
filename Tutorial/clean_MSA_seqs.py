@@ -70,6 +70,8 @@ with open(input_fasta, "r") as infile, open(output_fasta, "w") as outfile:
 			#save the header to a variable without the endline character
 			header = header.replace(" ", "_")
 			#replace spaces in the header lines with underscores
+			header = header.replace(",", "")
+			#remove commas in headers - commas can cause problems with TrimAl
 			#and write the result to the outfile
 			outfile.write(header + "\n")
 		else:
